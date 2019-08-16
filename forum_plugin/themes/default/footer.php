@@ -1,0 +1,1 @@
+<?php osc_run_hook('dt_forum_footer'); ?>

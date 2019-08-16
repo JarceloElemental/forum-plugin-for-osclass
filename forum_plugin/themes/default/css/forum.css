@@ -1,0 +1,126 @@
+p{
+	margin:0px;
+}
+ul{
+	padding:0px;
+}
+a{
+	text-decoration:none;
+}
+.clearfix{
+	clear:both;
+}
+.table-header-forum td {
+  color: #fff;
+  padding: 9px;
+}
+.forum-topic-info, .forum-topic-post,.forum-inner-topic {
+  background-color: #f0f4f7;
+  padding: 5px 5px 5px 17px;
+  font-size: 14px;
+}
+.center {
+  text-align: center;
+}
+.forum-topic-count {
+  background-color: #e7eaef;
+  padding: 5px;
+  text-align: center;
+}
+.forum-topic-info > a {
+  color: #e49033;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.forum-inner-topic > a {
+  color: #5d7c8b;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.forum-topic-info > p {
+  color: #949494;
+  font-size: 15px;
+  margin-top: 10px;
+  text-transform: capitalize;
+}
+.forum-topic-info > a ,.forum-inner-topic > a:hover{
+	text-decoration:underline;
+}
+.form-user-post {
+  background-color: #f0f4f7;
+}
+.form-user-post:nth-child(even) {
+  background-color: #E7EAEF;
+}
+.forum-author-name {
+  color: #e49033;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 5px 5px 17px;
+  text-transform: capitalize;
+}
+.forum-ques a, .forum-ques {
+  color: #334466;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.forum-ques {
+  border-bottom: 1px solid #acacac;
+  padding-bottom: 6px;
+}
+.forum-user {
+  padding: 10px;
+}
+.forum-ans {
+  margin: 10px 0;
+  text-transform: capitalize;
+}
+.forum-breadcrumb {
+  font-size: 20px;
+  font-weight: normal;
+  text-transform: capitalize;
+}
+.tool > a {
+  background-color: #dddddd;
+  border-radius: 5px;
+  color: #000;
+  font-size: 12px;
+  padding: 3px 14px;
+}
+.tool {
+  float: right;
+}
+.tool > a:hover{
+	background-color:#FD9604;
+	color:#fff;
+}
+.forum-post-area {
+  background-color: #e7eaef;
+  margin-top: 20px;
+  padding: 15px;
+}
+.forum-post-area h3 {
+  text-transform: uppercase;
+}
+.forum-post-area .form-controls > input, .forum-post-area .form-controls > textarea {
+  border: medium none;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 95%;
+}
+.forum-post-area p {
+  margin: 10px 0px;
+}
+.google-ads {
+  padding: 20px 10px;
+}
+.forum-edit h3 {
+  margin: 0;
+}
+.forum-edit p {
+  margin: 10px 0;
+}
